@@ -1,0 +1,6 @@
+{
+  "name": "Application Tailor",
+  "description": "Tailor candidate CVs and motivational letters to job descriptions with strict factual fidelity, qualification gap analysis, and ATS-friendly 1-page CV formatting using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
